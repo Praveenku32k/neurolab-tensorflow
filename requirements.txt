@@ -1,2 +1,5 @@
-matplotlib==3.6.0
-tensorflow==2.10.0
+matplotlib
+tensorflow
+numpy
+pandas
+
